@@ -12,6 +12,7 @@ To Read
  * Practical type inference based on success typings
  * Gradual Typing of Erlang Programs: A Wrangler Experience
  * Generic Top-down Discrimination for Sorting and Partitioning in Linear Time
+ * Functions as Session-Typed Processes by Bernardo Toninho, Luis Caires and Frank Pfenning
  
 
 Read
