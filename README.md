@@ -13,7 +13,7 @@ To Read
  * Gradual Typing of Erlang Programs: A Wrangler Experience
  * Generic Top-down Discrimination for Sorting and Partitioning in Linear Time
  * Functions as Session-Typed Processes by Bernardo Toninho, Luis Caires and Frank Pfenning
- 
+ * Scalable Atomic Visibility with RAMP Transactions by Peter Bailis, Alan Fekete†, Ali Ghodsi, Joseph M. Hellerstein, Ion Stoica
 
 Read
 ======
