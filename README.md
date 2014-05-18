@@ -16,6 +16,7 @@ To Read
  * Generic Top-down Discrimination for Sorting and Partitioning in Linear Time
  * Functions as Session-Typed Processes by Bernardo Toninho, Luis Caires and Frank Pfenning
  * Scalable Atomic Visibility with RAMP Transactions by Peter Balis etc
+ * A comprehensive study of Convergent and Commutative Replicated Data Types by Marc Shapiro etc
 
 Read
 ======
