@@ -3,9 +3,11 @@ papers
 
 Notes from reading academic papers.
 
+Currently reading "Functional Programming with Bananas, Lenses,Envelopes and Barbed Wire".
 
 To Read
 ======
+ * Functional Programming with Bananas, Lenses,Envelopes and Barbed Wire
  * Cache Oblivious Algorithms and Data Structures by Erik D. Demaine
  * Spanner: Google’s Globally-Distributed Database by various
  * Mio: A High-Performance Multicore IO Manager for GHC
