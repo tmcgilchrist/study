@@ -3,11 +3,12 @@ papers
 
 Notes from reading academic papers.
 
-Currently reading "Functional Programming with Bananas, Lenses,Envelopes and Barbed Wire".
+Currently reading "Uniprocessor Garbage Collection Techniques".
 
 To Read
 ======
 
+ * Uniprocessor Garbage Collection Techniques by Paul R Wilson
  * Cache Oblivious Algorithms and Data Structures by Erik D. Demaine
  * Spanner: Google’s Globally-Distributed Database by various
  * Mio: A High-Performance Multicore IO Manager for GHC
