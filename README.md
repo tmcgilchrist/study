@@ -13,6 +13,7 @@ To Read
  * Spanner: Google’s Globally-Distributed Database by various
  * Mio: A High-Performance Multicore IO Manager for GHC
  * Practical type inference based on success typings
+ * A Practical Subtyping System For Erlang by Simon Marlow and Phillip Wadler
  * Gradual Typing of Erlang Programs: A Wrangler Experience
  * Generic Top-down Discrimination for Sorting and Partitioning in Linear Time
  * Functions as Session-Typed Processes by Bernardo Toninho, Luis Caires and Frank Pfenning
