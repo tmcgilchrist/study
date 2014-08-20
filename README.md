@@ -3,12 +3,13 @@ papers
 
 Notes from reading academic papers.
 
-Currently reading "Uniprocessor Garbage Collection Techniques".
+Currently reading "Uniprocessor Garbage Collection Techniques" and "Compiling with Continuations, Continued"
 
 To Read
 ======
 
  * Uniprocessor Garbage Collection Techniques by Paul R Wilson
+ * Compiling with Continuations, Continued by Andrew Kennedy
  * Cache Oblivious Algorithms and Data Structures by Erik D. Demaine
  * Spanner: Google’s Globally-Distributed Database by various
  * Mio: A High-Performance Multicore IO Manager for GHC
