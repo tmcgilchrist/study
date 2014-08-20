@@ -20,6 +20,7 @@ To Read
  * Functions as Session-Typed Processes by Bernardo Toninho, Luis Caires and Frank Pfenning
  * Scalable Atomic Visibility with RAMP Transactions by Peter Balis etc
  * Viewstamped Replication by Barbara Liskov and Brian Oki (http://www.pmg.csail.mit.edu/papers/vr.pdf)
+ * SML# in Industry: A Practical ERP System Development by Atsushi Ohori and Katsuhuro Ueno
 
 Read
 ======
