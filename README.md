@@ -21,6 +21,7 @@ To Read
  * Scalable Atomic Visibility with RAMP Transactions by Peter Balis etc
  * Viewstamped Replication by Barbara Liskov and Brian Oki (http://www.pmg.csail.mit.edu/papers/vr.pdf)
  * SML# in Industry: A Practical ERP System Development by Atsushi Ohori and Katsuhuro Ueno
+ * QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs by Koen Claessen and John Hughes
 
 Read
 ======
