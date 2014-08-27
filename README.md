@@ -3,13 +3,14 @@ papers
 
 Notes from reading academic papers.
 
-Currently reading "Uniprocessor Garbage Collection Techniques" and "Compiling with Continuations, Continued"
+Currently reading "Cache-Oblivious B-Trees" and "Compiling with Continuations, Continued"
 
 To Read
 ======
 
  * Uniprocessor Garbage Collection Techniques by Paul R Wilson
  * Compiling with Continuations, Continued by Andrew Kennedy
+ * Cache-Oblivious B-Trees by Michael A. Bender, Erik D. Demaine, Martin Farach-Colton
  * Cache Oblivious Algorithms and Data Structures by Erik D. Demaine
  * Spanner: Google’s Globally-Distributed Database by various
  * Mio: A High-Performance Multicore IO Manager for GHC
@@ -20,7 +21,6 @@ To Read
  * Functions as Session-Typed Processes by Bernardo Toninho, Luis Caires and Frank Pfenning
  * Scalable Atomic Visibility with RAMP Transactions by Peter Balis etc
  * Viewstamped Replication by Barbara Liskov and Brian Oki (http://www.pmg.csail.mit.edu/papers/vr.pdf)
- * SML# in Industry: A Practical ERP System Development by Atsushi Ohori and Katsuhuro Ueno
  * QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs by Koen Claessen and John Hughes
  * Hindley-Milner Elaboration in Applicative Style by François Pottier
 
@@ -30,7 +30,7 @@ Read
  * Functional Programming with Bananas, Lenses,Envelopes and Barbed Wire
  * In Search of an Understandable Consensus Algorithm by Diego Ongaro and John Ousterhout
  * Distributed Computation on Dynamo Style distributed storage: Riak Pipe
-
+ * SML# in Industry: A Practical ERP System Development by Atsushi Ohori and Katsuhuro Ueno
 
 Further Readings
 ======
