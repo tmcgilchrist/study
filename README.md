@@ -23,6 +23,7 @@ To Read
  * Viewstamped Replication by Barbara Liskov and Brian Oki (http://www.pmg.csail.mit.edu/papers/vr.pdf)
  * QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs by Koen Claessen and John Hughes
  * Hindley-Milner Elaboration in Applicative Style by François Pottier
+ * Compiling SML# with LLVM: a Challenge of Implementing ML on a Common Compiler Infrastructure 
 
 Read
 ======
