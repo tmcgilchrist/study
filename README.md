@@ -3,11 +3,12 @@ papers
 
 Notes from reading academic papers.
 
-Currently reading "Cache-Oblivious B-Trees" and "Compiling with Continuations, Continued"
+Currently reading "Modular implicits" and "Compiling with Continuations, Continued"
 
 To Read
 ======
 
+ * Modular implicits by Leo White and Fr ́ed ́eric Bour
  * Uniprocessor Garbage Collection Techniques by Paul R Wilson
  * Compiling with Continuations, Continued by Andrew Kennedy
  * Cache-Oblivious B-Trees by Michael A. Bender, Erik D. Demaine, Martin Farach-Colton
