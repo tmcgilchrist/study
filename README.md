@@ -3,14 +3,13 @@ papers
 
 Notes from reading academic papers.
 
-Currently reading "Modular implicits" and "Compiling with Continuations, Continued"
+Currently reading "In Search of an Understandable Consensus Algorithm" and "PAXOS Made Simple" 
 
 To Read
 ======
 
- * Modular implicits by Leo White and Fr ́ed ́eric Bour
  * Uniprocessor Garbage Collection Techniques by Paul R Wilson
- * Compiling with Continuations, Continued by Andrew Kennedy
+ * Paxos made simple by Leslie Lamport
  * Cache-Oblivious B-Trees by Michael A. Bender, Erik D. Demaine, Martin Farach-Colton
  * Cache Oblivious Algorithms and Data Structures by Erik D. Demaine
  * Spanner: Google’s Globally-Distributed Database by various
@@ -28,6 +27,8 @@ To Read
 
 Read
 ======
+ * Modular implicits by Leo White and Fr ́ed ́eric Bour
+ * Compiling with Continuations, Continued by Andrew Kennedy
  * A comprehensive study of Convergent and Commutative Replicated Data Types by Marc Shapiro etc
  * Functional Programming with Bananas, Lenses,Envelopes and Barbed Wire
  * In Search of an Understandable Consensus Algorithm by Diego Ongaro and John Ousterhout
