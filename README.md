@@ -3,13 +3,15 @@ papers
 
 Notes from reading academic papers.
 
-Currently reading "In Search of an Understandable Consensus Algorithm" and "PAXOS Made Simple" 
+Currently reading "Generalizing Monads to Arrows" 
 
 To Read
 ======
 
+ * Lightweight Monadic Programming in ML by Nikhil Swamy, Nataliya Guts, Daan Leijen and Michael Hicks
+ * Generalizing Monads to Arrows by John Huges
+ * Theorems for Free by Phillip Wadler
  * Uniprocessor Garbage Collection Techniques by Paul R Wilson
- * Paxos made simple by Leslie Lamport
  * Cache-Oblivious B-Trees by Michael A. Bender, Erik D. Demaine, Martin Farach-Colton
  * Cache Oblivious Algorithms and Data Structures by Erik D. Demaine
  * Spanner: Google’s Globally-Distributed Database by various
@@ -34,6 +36,7 @@ Read
  * In Search of an Understandable Consensus Algorithm by Diego Ongaro and John Ousterhout
  * Distributed Computation on Dynamo Style distributed storage: Riak Pipe
  * SML# in Industry: A Practical ERP System Development by Atsushi Ohori and Katsuhuro Ueno
+ * Paxos made simple by Leslie Lamport
 
 Further Readings
 ======
