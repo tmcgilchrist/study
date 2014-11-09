@@ -12,6 +12,7 @@ To Read
  * Generalizing Monads to Arrows by John Huges
  * Theorems for Free by Phillip Wadler
  * Uniprocessor Garbage Collection Techniques by Paul R Wilson
+ * Phase Reconciliation for Contended In-Memory Transactions by Neha Narula, Cody Cutler, Eddie Kohler†, and Robert Morris
  * Cache-Oblivious B-Trees by Michael A. Bender, Erik D. Demaine, Martin Farach-Colton
  * Cache Oblivious Algorithms and Data Structures by Erik D. Demaine
  * Spanner: Google’s Globally-Distributed Database by various
