@@ -3,13 +3,15 @@ papers
 
 Notes from reading academic papers.
 
-Currently reading "Generalizing Monads to Arrows" 
+Currently reading "Lightweight higher-kinded polymorphism" 
 
 To Read
 ======
 
  * Lightweight Monadic Programming in ML by Nikhil Swamy, Nataliya Guts, Daan Leijen and Michael Hicks
- * Generalizing Monads to Arrows by John Huges
+ * Generalizing Monads to Arrows by John Hughes
+ * Lightweight higher-kinded polymorphism by Jeremy Yallop and Leo White
+ * Lecture Notes on the Lambda Calculus by Peter Selinger
  * Theorems for Free by Phillip Wadler
  * Uniprocessor Garbage Collection Techniques by Paul R Wilson
  * Phase Reconciliation for Contended In-Memory Transactions by Neha Narula, Cody Cutler, Eddie Kohler†, and Robert Morris
