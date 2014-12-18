@@ -29,6 +29,7 @@ To Read
  * QuickCheck: A Lightweight Tool for Random Testing of Haskell Programs by Koen Claessen and John Hughes
  * Hindley-Milner Elaboration in Applicative Style by François Pottier
  * Compiling SML# with LLVM: a Challenge of Implementing ML on a Common Compiler Infrastructure 
+ * Chain Replication in Theory and in Practice by SL Fritchie
 
 Read
 ======
