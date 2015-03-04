@@ -3,12 +3,14 @@ papers
 
 Notes from reading academic papers.
 
-Currently reading "Lightweight higher-kinded polymorphism" 
+Currently reading "The Essence of the Iterator Pattern" and "Functional Pearl: The Zipper"
 
 To Read
 ======
 
  * Lightweight Monadic Programming in ML by Nikhil Swamy, Nataliya Guts, Daan Leijen and Michael Hicks
+ * CORFU: A Shared Log Design for Flash Clusters 
+ * Monadic Parser Combinators by G Hutton and E Mejier
  * Generalizing Monads to Arrows by John Hughes
  * Lightweight higher-kinded polymorphism by Jeremy Yallop and Leo White
  * Lecture Notes on the Lambda Calculus by Peter Selinger
