@@ -3,12 +3,13 @@ papers
 
 Notes from reading academic papers.
 
-Currently reading "The Essence of the Iterator Pattern" and "Functional Pearl: The Zipper"
+Currently reading "Functional Pearl: Monadic Parsing in Haskell" and "Functional Pearl: The Zipper"
 
 To Read
 ======
 
  * Lightweight Monadic Programming in ML by Nikhil Swamy, Nataliya Guts, Daan Leijen and Michael Hicks
+ * Definitional Interpreters for Higher-Order Programming Languages
  * CORFU: A Shared Log Design for Flash Clusters 
  * Monadic Parser Combinators by G Hutton and E Mejier
  * Generalizing Monads to Arrows by John Hughes
@@ -35,7 +36,7 @@ To Read
 
 Read
 ======
- * Modular implicits by Leo White and Fr ́ed ́eric Bour
+ * Modular implicits by Leo White and Frederic Bour
  * Compiling with Continuations, Continued by Andrew Kennedy
  * A comprehensive study of Convergent and Commutative Replicated Data Types by Marc Shapiro etc
  * Functional Programming with Bananas, Lenses,Envelopes and Barbed Wire
@@ -43,6 +44,7 @@ Read
  * Distributed Computation on Dynamo Style distributed storage: Riak Pipe
  * SML# in Industry: A Practical ERP System Development by Atsushi Ohori and Katsuhuro Ueno
  * Paxos made simple by Leslie Lamport
+ * The Essence of the Iterator Pattern
 
 Further Readings
 ======
