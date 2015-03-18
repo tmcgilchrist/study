@@ -49,3 +49,4 @@ Read
 Further Readings
 ======
  * http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html
+ * https://wiki.haskell.org/Research_papers/Functional_pearls
